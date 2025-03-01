@@ -1,26 +1,26 @@
 [colors.bright]
-black = "0x002b36"
-blue = "0x839496"
-cyan = "0x93a1a1"
-green = "0x586e75"
-magenta = "0x6c71c4"
-red = "0xcb4b16"
-white = "0xfdf6e3"
-yellow = "0x657b83"
+black = "0x3B4252" # Polar Night 2
+blue = "0x88C0D0"  # Frost 2
+cyan = "0x8FBCBB"  # Frost 1
+green = "0xA3BE8C" # Aurora Green
+magenta = "0xB48EAD" # Aurora Purple
+red = "0xBF616A"   # Aurora Red
+white = "0xECEFF4" # Snow Storm 3
+yellow = "0xEBCB8B"  # Aurora Yellow
 
 [colors.normal]
-black = "0x073642"
-blue = "0x268bd2"
-cyan = "0x2aa198"
-green = "0x859900"
-magenta = "0xd33682"
-red = "0xdc322f"
-white = "0xeee8d5"
-yellow = "0xb58900"
+black = "0x2E3440" # Polar Night 1
+blue = "0x5E81AC"  # Frost 3
+cyan = "0x8FBCBB"  # Frost 1
+green = "0xA3BE8C" # Aurora Green
+magenta = "0xB48EAD" # Aurora Purple
+red = "0xBF616A"   # Aurora Red
+white = "0xD8DEE9" # Snow Storm 1
+yellow = "0xEBCB8B"  # Aurora Yellow
 
 [colors.primary]
-background = "0x002b36"
-foreground = "0x839496"
+background = "0x2E3440" # Polar Night 1
+foreground = "0xD8DEE9" # Snow Storm 1
 
 [font]
 size = 11.5
